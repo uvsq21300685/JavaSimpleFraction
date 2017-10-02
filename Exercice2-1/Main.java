@@ -1,4 +1,4 @@
-package simpleFraction;
+
 
 import java.lang.Object;
 
